@@ -1,4 +1,3 @@
-// import { Route } from "react-router-dom";
 import "./App.css";
 import About from "./route/About";
 import Contact from "./route/Contact";
