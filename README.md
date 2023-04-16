@@ -19,9 +19,13 @@ If you'd like to run this website locally, follow these steps:
 3. Start the development server: npm start
 4. Open your browser and navigate to http://localhost:3000/
 
+## Video Preview
+
+https://user-images.githubusercontent.com/117558233/232274529-16d49e52-ad03-44f4-acf9-4e92b515250e.mp4
+
+
 ## Photo Preview
 
 ![Screenshot 2023-04-16 111907](https://user-images.githubusercontent.com/117558233/232274051-7dd8515b-89b7-495a-8aec-4c51497e335c.png)
 
 
-## Video Preview
